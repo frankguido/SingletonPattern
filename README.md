@@ -144,6 +144,10 @@ Test.java
   <img src="https://github.com/frankguido/SingletonPattern/blob/main/singleton.png?raw=true" />
 </p>
 
+
+<p align="center">
+  <img src="https://github.com/frankguido/SingletonPattern/blob/main/singleton2.png?raw=true" />
+</p>
 ## EJERCICIOS PROPUESTOS
 
 -   Se han creado estructuras complejas con objetos más pequeños.

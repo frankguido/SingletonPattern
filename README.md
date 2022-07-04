@@ -58,10 +58,10 @@
 
 ## CONTENIDO DE LA GUÍA
 
-### MARCO CONCEPTUAL
+### DEFINICIÓN
 
--   Patrón composite
-    -   Si ud. quiere crear estructuras complejas a partir de estructuras simples. Este patrón puede ayudarlo.
+-   Patrón Singleton
+    -   El singleton es un patrón de diseño muy conocido y muy utilizado. Restringe la creación de instancias de una clase para que solo cree una instancia de la clase 	que lo implementa. Puede ser utilizado de forma global en aplicaciones así que su uso puede ser muy variado, desde acceder a constantes y acumuladores o 	 contadores, hasta la gestión de parámetros de la aplicación.
 
 -   Estructura del patrón de diseño Composite
     ![PATRON-COMPOSITE-ESTRUCTURA](imagenes/patron_composite_estructura.png)

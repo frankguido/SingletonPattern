@@ -69,6 +69,7 @@
 
 ## EJERCICIO RESUELTO
 
+#
 package Singleton;
 
 import java.sql.Connection;
@@ -102,8 +103,7 @@ public class DBConnection {
   
 }
 
-
-...
+#
 
 
 ## EJERCICIOS PROPUESTOS

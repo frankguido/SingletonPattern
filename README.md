@@ -138,6 +138,10 @@ Test.java
         }   
     }
 
+
+<p align="center">
+  <img src="[https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png](https://github.com/frankguido/SingletonPattern/blob/main/singleton.png?raw=true)" />
+</p>
 ## EJERCICIOS PROPUESTOS
 
 -   Se han creado estructuras complejas con objetos más pequeños.
@@ -314,7 +318,7 @@ Test.java
 
 
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+  <img src="[https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png](https://github.com/frankguido/SingletonPattern/blob/main/singleton.png?raw=true)" />
 </p>
 
 ```js

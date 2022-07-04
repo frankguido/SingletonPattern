@@ -41,26 +41,15 @@
 </table>
 
 # Patrón Singleon
-
-[![License][license]][license-file]
-[![Downloads][downloads]][releases]
-[![Last Commit][last-commit]][releases]
-
-[![Debian][Debian]][debian-site]
-[![Git][Git]][git-site]
-[![GitHub][GitHub]][github-site]
-[![Vim][Vim]][vim-site]
-[![Java][Java]][java-site]
-
 #
 
 ## OBJETIVOS Y TEMAS
 
 ### OBJETIVOS
-- Aprender el patrón Composite.
+- Aprender el patrón Singleton.
 
 ### TEMAS
--   El Patrón Composite
+-   El Patrón singleton
 -   Estructura del patrón de diseño Composite.
 -   Diagrama de secuencia del patrón Composite.
 -   El Escenario.

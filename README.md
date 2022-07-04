@@ -40,7 +40,7 @@
 </tdbody>
 </table>
 
-# Patrón Composite
+# Patrón Singleon
 
 [![License][license]][license-file]
 [![Downloads][downloads]][releases]

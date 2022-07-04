@@ -70,6 +70,7 @@
 ## EJERCICIO RESUELTO
 
 #
+//Patronsingleton
 package Singleton;
 
 import java.sql.Connection;

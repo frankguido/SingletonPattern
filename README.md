@@ -69,8 +69,7 @@
 
 ## EJERCICIO RESUELTO
 
-#
--   DBConnection.java
+DBConnection.java
 
     //Patronsingleton
     package Singleton;
@@ -108,9 +107,9 @@
 
 #
 
-## EJERCICIO RESUELTO
 
--   Test.java
+
+Test.java
 
     package Singleton;
      /**

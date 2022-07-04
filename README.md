@@ -93,6 +93,7 @@ public class DBConnection {
                 Class.forName("com.mysql.jdbc.Driver");
                 conn = DriverManager.getConnection("jdbc:mysql://localhost/db_proyecto", "root", "12345678");  
             }
+	   
             
         } catch (Exception e){
             e.printStackTrace();

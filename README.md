@@ -24,7 +24,7 @@
     </theader>
 <tbody>
 
-<tr><td>TÍTULO DE LA PRÁCTICA:</td><td>Patrón Singleton</td></tr>
+<tr><td>TÍTULO DE LA PRÁCTICA:</td>Patrón Singleton<td></td></tr>
 <tr><td colspan="2">RECURSOS:
     <ul>
     <li>Oscar J Blancarte Iturralde. Introducción a los patrones de diseño. Un enfoque práctico (Spanish Edition. CreateSpace Independent Publishing Platform (2016)</li>

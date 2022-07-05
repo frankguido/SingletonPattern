@@ -1,18 +1,16 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package singeton2;
 
-/**
- *
- * @author User
- */
+//Clase impresora
 public class Printer {
+    
     private static Printer printer;
+    
+    //atributo privado
     private int nrOfPages;
     private Printer() {
     }
+    
+    //metodo publico estatico que retorna el tipo de la clase Connection que no recibe parametros
     public static Printer getInstance() {
         return printer == null ? 
                 printer = new Printer() : 

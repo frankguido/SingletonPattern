@@ -49,8 +49,8 @@
 - Aprender el patrón Singleton.
 
 ### TEMAS
--   El Patrón singleton
--   Propósito.
+-   El Patrón singleton.
+-   Caracteristicas principales.
 -   Diagrama de secuencia del patrón Composite.
 -   El Escenario.
 -   La implementación.
@@ -60,11 +60,13 @@
 
 ### DEFINICIÓN
 
--   Patrón Singleton.
-    -   El singleton es un patrón de diseño creacional muy conocido y muy utilizado. Restringe la creación de instancias de una clase para que solo cree una instancia 	       de la clase que lo implementa. Puede ser utilizado de forma global en aplicaciones así que su uso puede ser muy variado, desde acceder a constantes y     	 acumuladores o contadores, hasta la gestión de parámetros de la aplicación.
+-   Patrón Singleton
+    -   El singleton es un patrón de diseño muy conocido y muy utilizado. Restringe la creación de instancias de una clase para que solo cree una instancia de la clase 	que lo implementa. Puede ser utilizado de forma global en aplicaciones así que su uso puede ser muy variado, desde acceder a constantes y acumuladores o 	 contadores, hasta la gestión de parámetros de la aplicación.
+        El singleton es uno de los patrones más simples, pero más poderosos en el desarrollo de software.
 
--   Propósito.
-    -   Asegurarnos de que una clase tenga una única instancia, a la vez que proporciona un punto de acceso global a dicha instancia.
+-   Estructura del patrón de diseño Composite
+    ![PATRON-COMPOSITE-ESTRUCTURA](imagenes/patron_composite_estructura.png)
+    - Fuente: (Blancarte, O.) Introducción a los patrones de diseño.
 
 ## EJERCICIO RESUELTO
 

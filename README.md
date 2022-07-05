@@ -79,15 +79,16 @@
 		-     No es recomendable en aplicaciones con muchos usuarios, porque puede reducir el rendimiento del programa.    
     
     
+
+
+## EJEMPLO 1 EN LA VIDA REAL
+
 -    Ejemplo
      - No es encillo probar el patrón singleton, es por eso que por medio de la siguiente ilustracion se mostrara su funcionamiento en una empresa en la que existe una sola impresora.     
      
 <p align="center">
   <img src="https://github.com/frankguido/SingletonPattern/blob/main/impresora.png?raw=true" />
 </p>
-
-## EJEMPLO 1 EN LA VIDA REAL
-
 
 Clase Employee.java
 

@@ -262,11 +262,14 @@ Test.java
 
 ## REFERENCIAS
 -   Oscar J Blancarte Iturralde. Introducción a los patrones de diseño_ Un enfoque práctico (Spanish Edition. CreateSpace Independent Publishing Platform (2016)
+-   https://sourcemaking.com/design_patterns/singleton 
+-   https://refactoring.guru/es/design-patterns/singleton#:~:text=Aplicabilidad,por%20distintas%20partes%20del%20programa.
+-   https://www.youtube.com/watch?v=gocJeOHtj9w
+-   https://www.youtube.com/watch?v=PD5MIsQ85u8&t=262s
+-   https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/patron-singleton/
 
 
 
 
-# THAT'S ME !
 
-⭐️ From [Hrishikesh-coder](https://github.com/Hrishikesh-coder)
 

@@ -86,7 +86,7 @@
   <img src="https://github.com/frankguido/SingletonPattern/blob/main/impresora.png?raw=true" />
 </p>
 
-## EJEMPLO 1 CODIGO
+## EJEMPLO 1 EN LA VIDA REAL
 
 
 Clase Employee.java
@@ -152,8 +152,13 @@ Clase Test.java
   <img src="https://github.com/frankguido/SingletonPattern/blob/main/ejm1.png?raw=true" />
 </p>
 
+
 Como podemos ver se generan diferentes empleados que tienen diferentes roles dentro de una empresa pero que usan una misma impresora siguiendo el orden dado.
-DBConnection.java
+
+
+## EJEMPLO 2 BASE DE DATOS
+
+Clase DBConnection.java
 
     //Patronsingleton
     package Singleton;

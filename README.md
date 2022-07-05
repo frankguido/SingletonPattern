@@ -163,6 +163,10 @@ Como podemos ver se generan diferentes empleados que tienen diferentes roles den
 
 ## EJEMPLO 2 BASE DE DATOS
 
+Para este ejemplo se tiene que desgar una libreria para poder tener conexión a la Base de Datos.
+https://dev.mysql.com/downloads/connector/j/ 
+Una vez descargada tiene que agregarsa a las librerias del proyecto.
+
 Clase DBConnection.java
 
     //Patronsingleton

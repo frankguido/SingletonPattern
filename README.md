@@ -130,6 +130,25 @@ Clase Printer.java
     }
 
 
+
+Clase Test.java
+
+    public class Test {
+    
+        //diferentes empleados, pero una misma impresora
+        public static void main(String[] args) {
+            Employee suarez = new Employee("Suarez","CEO");
+            Employee fer = new Employee("Fernando", "Desarrollador");
+            Employee kev = new Employee("Kevin", "Empleado");
+            Employee ros = new Employee("Rosa", "Empleado");
+            suarez.printCurrentAssignment();
+            fer.printCurrentAssignment();
+            kev.printCurrentAssignment();
+            ros.printCurrentAssignment();
+        }
+    }
+    
+    
 DBConnection.java
 
     //Patronsingleton

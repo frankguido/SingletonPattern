@@ -1,12 +1,7 @@
-
 package Singleton;
 
-/**
- *
- * @author User
- */
 import java.sql.*;
-public class Test {
+public class Test2 {
     public static void main(String [] args){
         Connection conn = DBConnection.getDBConnection();
         

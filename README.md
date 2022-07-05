@@ -72,8 +72,9 @@
 
 ### IMPLEMENTACIÓN
 
--   Problema
-    -   Resuelve dos problemas al mismo tiempo, vulnerando asi el principio de responsabilidad Única:
+-Para una buena implementacion se recomienda:
+	-Ocultar el contructor es decir se debe declarar como privado.
+	-Declarar un método estático para llamar al constructor privado, este metodo suele llamarse getInstance().
     
 
     

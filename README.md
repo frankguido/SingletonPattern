@@ -50,9 +50,9 @@
 
 ### TEMAS
 -   Definición.
--   Problema.
--   Ventajas y Desventajas.
+-   Implementación.
 -   Ejemplo.
+-   Ventajas y Desventajas.
 
 
 ### DEFINICIÓN
@@ -69,21 +69,15 @@
 <p align="center">
   <img src="https://github.com/frankguido/SingletonPattern/blob/main/singleton2.png?raw=true" />
 </p>
+
+### IMPLEMENTACIÓN
+
 -   Problema
     -   Resuelve dos problemas al mismo tiempo, vulnerando asi el principio de responsabilidad Única:
-    -   
+    
 
     
--   Ventajas y Desventajas.
-	-    Ventajas
-		-     Puede escribirse de forma rápida y sencilla al no tener muchas variables globales.
-		-     Se crea exactamente cuándo se necesita, una característica que se denomina lazy loading.     	
-	-    Desventajas
-		-     La disponibilidad global de patrones singleton plantea riesgos si se manejan datos sensibles.
-		-     Los fallos de funcionamiento son difíciles de rastrear.
-		-     No es recomendable en aplicaciones con muchos usuarios, porque puede reducir el rendimiento del programa.    
-    
-    
+
 
 
 ## EJEMPLO 1 EN LA VIDA REAL
@@ -234,7 +228,16 @@ Test.java
     }
 
 
-
+### VENTAJAS Y DESVENTAJAS
+	-    Ventajas
+		-     Puede escribirse de forma rápida y sencilla al no tener muchas variables globales.
+		-     Se crea exactamente cuándo se necesita, una característica que se denomina lazy loading.     	
+	-    Desventajas
+		-     La disponibilidad global de patrones singleton plantea riesgos si se manejan datos sensibles.
+		-     Los fallos de funcionamiento son difíciles de rastrear.
+		-     No es recomendable en aplicaciones con muchos usuarios, porque puede reducir el rendimiento del programa.    
+    
+    
 
 ## EJERCICIOS PROPUESTOS
 

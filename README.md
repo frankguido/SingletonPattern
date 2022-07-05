@@ -75,6 +75,7 @@
 
 -   Para una buena implementacion se recomienda:
 
+    -   Atributo privado estatico de la propia clase.
     -   Ocultar el contructor es decir se debe declarar como privado.
     -   Declarar un método estático para llamar al constructor privado, este método suele llamarse getInstance().
     

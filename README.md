@@ -151,7 +151,8 @@ Clase Test.java
 <p align="center">
   <img src="https://github.com/frankguido/SingletonPattern/blob/main/ejm1.png?raw=true" />
 </p>
-    
+
+Como podemos ver se generan diferentes empleados que tienen diferentes roles dentro de una empresa pero que usan una misma impresora siguiendo el orden dado.
 DBConnection.java
 
     //Patronsingleton

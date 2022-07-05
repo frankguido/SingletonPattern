@@ -49,14 +49,11 @@
 - Aprender el patrón Singleton.
 
 ### TEMAS
--   El Patrón singleton.
+-   Definición.
 -   Problema.
--   Diagrama de secuencia del patrón Composite.
--   El Escenario.
 -   Ventajas y Desventajas.
 -   Ejemplo.
 
-## CONTENIDO DE LA GUÍA
 
 ### DEFINICIÓN
 

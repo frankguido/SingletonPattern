@@ -88,8 +88,8 @@
 
 ## EJEMPLO 1 CODIGO
 
-Employee.java
-    package singeton2;
+
+Clase Employee.java
 
 
     public class Employee {
@@ -107,6 +107,28 @@ Employee.java
             printer.print( name + " " + role + " ");
         }
     }
+
+Clase Printer.java
+
+    public class Printer {
+    
+        //privado
+        private static Printer printer;
+        private int nrOfPages;
+        private Printer() {
+        }
+        //instancia del mismo nombre
+        public static Printer getInstance() {
+            return printer == null ? 
+                    printer = new Printer() : 
+                    printer;
+        }
+        public void print(String text){
+            System.out.println(text  +"\n" + "  paginas impresas hoy  " + ++nrOfPages+"\n" 
+                     );
+        }
+    }
+
 
 DBConnection.java
 

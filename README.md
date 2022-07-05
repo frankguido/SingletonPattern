@@ -80,8 +80,7 @@
     
     
 -    Ejemplo
-     - El gobierno es un ejemplo  de patrón Singleton, un país sólo puede tener un gobierno oficial. Independientemente de las identidades personales de los individuos que forman el gobierno, el título “Gobierno de X” es un punto de acceso global que identifica al grupo de personas a cargo. 
-     
+     - No es encillo probar el patrón singleton, es por eso que por medio de la siguiente ilustracion se mostrara su funcionamiento en una empresa en la que existe una sola impresora.     
      
 <p align="center">
   <img src="https://github.com/frankguido/SingletonPattern/blob/main/impresora.png?raw=true" />

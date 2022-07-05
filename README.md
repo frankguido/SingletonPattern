@@ -58,6 +58,7 @@
 ### DEFINICIÓN
 
 -   Patrón Singleton
+
     -   El singleton es un patrón de diseño muy conocido y muy utilizado. Restringe la creación de instancias de una clase para que solo cree una instancia de la clase 	que lo implementa. Puede ser utilizado de forma global en aplicaciones así que su uso puede ser muy variado, desde acceder a constantes y acumuladores o 	 contadores, hasta la gestión de parámetros de la aplicación.
         El singleton es uno de los patrones más simples, pero más poderosos en el desarrollo de software.}
 	
@@ -73,6 +74,7 @@
 ### IMPLEMENTACIÓN
 
 -   Para una buena implementacion se recomienda:
+
     -   Ocultar el contructor es decir se debe declarar como privado.
     -   Declarar un método estático para llamar al constructor privado, este método suele llamarse getInstance().
     
@@ -84,6 +86,7 @@
 ## EJEMPLO 1 EN LA VIDA REAL
 
 -    Ejemplo
+
      - No es encillo probar el patrón singleton, es por eso que por medio de la siguiente ilustracion se mostrara su funcionamiento en una empresa en la que existe una sola impresora.     
      
 <p align="center">
@@ -230,11 +233,14 @@ Test.java
 
 
 ### VENTAJAS Y DESVENTAJAS
-	-    Ventajas
+
+	-    Ventajas:
+	
 		-     Puede escribirse de forma rápida y sencilla al no tener muchas variables globales.
 		-     Se crea exactamente cuándo se necesita, una característica que se denomina lazy loading.
 		-     Permite crear un número exacto de instancias.
-	-    Desventajas
+	-    Desventajas:
+	
 		-     La disponibilidad global de patrones singleton plantea riesgos si se manejan datos sensibles.
 		-     Los fallos de funcionamiento son difíciles de rastrear.
 		-     No es recomendable en aplicaciones con muchos usuarios, porque puede reducir el rendimiento del programa.    

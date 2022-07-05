@@ -62,8 +62,16 @@
 
 -   Patrón Singleton
     -   El singleton es un patrón de diseño muy conocido y muy utilizado. Restringe la creación de instancias de una clase para que solo cree una instancia de la clase 	que lo implementa. Puede ser utilizado de forma global en aplicaciones así que su uso puede ser muy variado, desde acceder a constantes y acumuladores o 	 contadores, hasta la gestión de parámetros de la aplicación.
-        El singleton es uno de los patrones más simples, pero más poderosos en el desarrollo de software.
+        El singleton es uno de los patrones más simples, pero más poderosos en el desarrollo de software.}
+	
+<p align="center">
+  <img src="https://github.com/frankguido/SingletonPattern/blob/main/singleton.png?raw=true" />
+</p>
 
+
+<p align="center">
+  <img src="https://github.com/frankguido/SingletonPattern/blob/main/singleton2.png?raw=true" />
+</p>
 -   Problema
     -   Resuelve dos problemas al mismo tiempo, vulnerando asi el principio de responsabilidad Única:
     -   
@@ -230,14 +238,7 @@ Test.java
 
 
 
-<p align="center">
-  <img src="https://github.com/frankguido/SingletonPattern/blob/main/singleton.png?raw=true" />
-</p>
 
-
-<p align="center">
-  <img src="https://github.com/frankguido/SingletonPattern/blob/main/singleton2.png?raw=true" />
-</p>
 ## EJERCICIOS PROPUESTOS
 
 -   Se han creado estructuras complejas con objetos más pequeños.

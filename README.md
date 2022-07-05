@@ -74,7 +74,7 @@
 
 -   Para una buena implementacion se recomienda:
     -   Ocultar el contructor es decir se debe declarar como privado.
-    -   Declarar un método estático para llamar al constructor privado, este metodo suele llamarse getInstance().
+    -   Declarar un método estático para llamar al constructor privado, este método suele llamarse getInstance().
     
 
     
@@ -232,7 +232,8 @@ Test.java
 ### VENTAJAS Y DESVENTAJAS
 	-    Ventajas
 		-     Puede escribirse de forma rápida y sencilla al no tener muchas variables globales.
-		-     Se crea exactamente cuándo se necesita, una característica que se denomina lazy loading.     	
+		-     Se crea exactamente cuándo se necesita, una característica que se denomina lazy loading.
+		-     Permite crear un número exacto de instancias.
 	-    Desventajas
 		-     La disponibilidad global de patrones singleton plantea riesgos si se manejan datos sensibles.
 		-     Los fallos de funcionamiento son difíciles de rastrear.

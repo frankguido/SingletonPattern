@@ -86,7 +86,27 @@
   <img src="https://github.com/frankguido/SingletonPattern/blob/main/impresora.png?raw=true" />
 </p>
 
-## EJERCICIO RESUELTO
+## EJEMPLO 1 CODIGO
+
+
+package singeton2;
+
+
+public class Employee {
+    //atributos privados
+    private final String name;
+    private final String role;
+    
+    public Employee(String name, String role) {
+        this.name = name;
+        this.role = role;
+        
+    }
+    public void printCurrentAssignment(){
+        Printer printer = Printer.getInstance();
+        printer.print( name + " " + role + " ");
+    }
+}
 
 DBConnection.java
 

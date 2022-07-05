@@ -50,11 +50,11 @@
 
 ### TEMAS
 -   El Patrón singleton.
--   Caracteristicas principales.
+-   Problema.
 -   Diagrama de secuencia del patrón Composite.
 -   El Escenario.
--   La implementación.
--   La Ejecución.
+-   Ventajas y Desventajas.
+-   Ejemplo en el mundo real.
 
 ## CONTENIDO DE LA GUÍA
 
@@ -64,9 +64,23 @@
     -   El singleton es un patrón de diseño muy conocido y muy utilizado. Restringe la creación de instancias de una clase para que solo cree una instancia de la clase 	que lo implementa. Puede ser utilizado de forma global en aplicaciones así que su uso puede ser muy variado, desde acceder a constantes y acumuladores o 	 contadores, hasta la gestión de parámetros de la aplicación.
         El singleton es uno de los patrones más simples, pero más poderosos en el desarrollo de software.
 
--   Estructura del patrón de diseño Composite
-    ![PATRON-COMPOSITE-ESTRUCTURA](imagenes/patron_composite_estructura.png)
-    - Fuente: (Blancarte, O.) Introducción a los patrones de diseño.
+-   Problema
+    -   Resuelve dos problemas al mismo tiempo, vulnerando asi el principio de responsabilidad Única:
+    -   
+
+    
+-   Ventajas y Desventajas.
+	-    Ventajas
+		-     Puede escribirse de forma rápida y sencilla al no tener muchas variables globales.
+		-     Se crea exactamente cuándo se necesita, una característica que se denomina lazy loading.     	
+	-    Desventajas
+		-     La disponibilidad global de patrones singleton plantea riesgos si se manejan datos sensibles.
+		-     Los fallos de funcionamiento son difíciles de rastrear.
+		-     No es recomendable en aplicaciones con muchos usuarios, porque puede reducir el rendimiento del programa.    
+    
+    
+-    Ejemplo en el mundo real
+     - El gobierno es un ejemplo  de patrón Singleton, un país sólo puede tener un gobierno oficial. Independientemente de las identidades personales de los individuos que forman el gobierno, el título “Gobierno de X” es un punto de acceso global que identifica al grupo de personas a cargo.    	
 
 ## EJERCICIO RESUELTO
 

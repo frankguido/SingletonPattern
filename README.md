@@ -72,9 +72,9 @@
 
 ### IMPLEMENTACIÓN
 
--Para una buena implementacion se recomienda:
-	-Ocultar el contructor es decir se debe declarar como privado.
-	-Declarar un método estático para llamar al constructor privado, este metodo suele llamarse getInstance().
+-   Para una buena implementacion se recomienda:
+    -   Ocultar el contructor es decir se debe declarar como privado.
+    -   Declarar un método estático para llamar al constructor privado, este metodo suele llamarse getInstance().
     
 
     

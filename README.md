@@ -54,7 +54,7 @@
 -   Diagrama de secuencia del patrón Composite.
 -   El Escenario.
 -   Ventajas y Desventajas.
--   Ejemplo en el mundo real.
+-   Ejemplo.
 
 ## CONTENIDO DE LA GUÍA
 
@@ -79,8 +79,13 @@
 		-     No es recomendable en aplicaciones con muchos usuarios, porque puede reducir el rendimiento del programa.    
     
     
--    Ejemplo en el mundo real
-     - El gobierno es un ejemplo  de patrón Singleton, un país sólo puede tener un gobierno oficial. Independientemente de las identidades personales de los individuos que forman el gobierno, el título “Gobierno de X” es un punto de acceso global que identifica al grupo de personas a cargo.    	
+-    Ejemplo
+     - El gobierno es un ejemplo  de patrón Singleton, un país sólo puede tener un gobierno oficial. Independientemente de las identidades personales de los individuos que forman el gobierno, el título “Gobierno de X” es un punto de acceso global que identifica al grupo de personas a cargo. 
+     
+     
+<p align="center">
+  <img src="https://github.com/frankguido/SingletonPattern/blob/main/impresora.png?raw=true" />
+</p>
 
 ## EJERCICIO RESUELTO
 

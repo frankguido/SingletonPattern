@@ -147,7 +147,10 @@ Clase Test.java
             ros.printCurrentAssignment();
         }
     }
-    
+
+<p align="center">
+  <img src="https://github.com/frankguido/SingletonPattern/blob/main/ejm1.png?raw=true" />
+</p>
     
 DBConnection.java
 

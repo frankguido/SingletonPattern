@@ -233,6 +233,10 @@ Test.java
     }
 
 
+<p align="center">
+  <img src="https://github.com/frankguido/SingletonPattern/blob/main/bdimage.png?raw=true" />
+</p>
+
 ### VENTAJAS Y DESVENTAJAS
 
 	-    Ventajas:

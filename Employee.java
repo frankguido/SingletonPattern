@@ -1,13 +1,5 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package singeton2;
-
-/**
- *
- * @author User
- */
+//Clase empleado
 public class Employee {
     private final String name;
     private final String role;

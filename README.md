@@ -51,7 +51,8 @@
 ### TEMAS
 -   Definición.
 -   Implementación.
--   Ejemplo.
+-   ¿Cuándo utilizarlo?
+-   Ejemplos.
 -   Ventajas y Desventajas.
 
 
@@ -79,10 +80,10 @@
     -   Ocultar el contructor es decir se debe declarar como privado.
     -   Declarar un método estático para llamar al constructor privado, este método suele llamarse getInstance().
     
+### ¿CUÁNDO UTILIZAR EL PATRON SINGLETON? 
 
-    
-
-
+-    Cuando es requerido tener una única instancia en toda la aplicación y se requiere un acceso global a la misma.
+-    Cuando la creación de objetos por medio del operador new es perjudicial.
 
 ## EJEMPLO 1 EN LA VIDA REAL
 

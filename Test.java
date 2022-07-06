@@ -15,18 +15,18 @@ public class Test {
      */
  
     public static void main(String[] args) {
-        Employee graham = new Employee("Suarez",
+        Employee sua = new Employee("Suarez",
                 "CEO");
-        Employee sara = new Employee("Fernando",
+        Employee fer = new Employee("Fernando",
                 "Desarrollador");
-        Employee tim = new Employee("Kevin",
+        Employee kev = new Employee("Kevin",
                 "Empleado");
-        Employee emma = new Employee("Rosa",
+        Employee tim = new Employee("Rosa",
                 "Empleado");
-        graham.printCurrentAssignment();
-        sara.printCurrentAssignment();
+        sua.printCurrentAssignment();
+        fer.printCurrentAssignment();
+        kev.printCurrentAssignment();
         tim.printCurrentAssignment();
-        emma.printCurrentAssignment();
     }
 }
     
